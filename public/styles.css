@@ -1,0 +1,18 @@
+body{
+  background: #1D2C13;
+}
+header img{
+  width: 8%;
+  margin: auto;
+  display: inline;
+}
+header h1{
+  display: inline;
+  color : lime;
+}
+section{
+  color: white;
+}
+h3{
+  margin-top: 40px;
+}
