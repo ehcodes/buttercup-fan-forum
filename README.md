@@ -1,4 +1,4 @@
-![forum screenshot](public/Screenshot.png)
+![forum screenshot](public/img/Screenshot.png)
 
 ## Installation
 
